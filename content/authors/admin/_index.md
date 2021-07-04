@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zaile
 
 # Is this the primary user of the site?
 superuser: true
@@ -31,7 +31,7 @@ education:
     year: 2009
   - course: BSc in Artificial Intelligence
     institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
