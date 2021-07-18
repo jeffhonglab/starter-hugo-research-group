@@ -15,28 +15,27 @@ font_size: L
 site_type: Organization
 local_business_type: ''
 org_name: ''
-description: My research group description.
+description: L. Jeff Hong's Research Group
 twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: hong_liu@fudan.edu.cn
+phone: (021) 25011159
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: 670 Guoshun Road, Yangpu District
+  city: Shanghai
+  region: China
+  postcode: '200433'
+  country: China
+  country_code: CN
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  latitude: '31.302041'
+  longitude: '121.513131'
+directions: Room 530, Lidasan Building, School of Management
+#office_hours:
+#  - Appointment
+# appointment_url: 'https://calendly.com'
 contact_links:
 #  - icon: comments
 #    icon_pack: fas
