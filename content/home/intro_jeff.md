@@ -1,11 +1,11 @@
 ---
 widget: about
+widget_id: admin
 headless: true
-weight: 0
+weight: 10
 title: Jeff Hong
 active: true
 author: admin
-widget_id: admin
 design:
   columns: "2"
   background:
