@@ -2,7 +2,8 @@
 widget: about
 widget_id: intro_jeff
 headless: true
-weight: 10
+weight: 0
+title: Jeff Hong
 active: true
 design:
   columns: "2"
@@ -10,4 +11,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-dddd
+Who I Am?
