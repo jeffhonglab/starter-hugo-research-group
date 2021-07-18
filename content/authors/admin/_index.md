@@ -10,8 +10,10 @@ role: Fudan Distinguished Professor & Hongyi Chair Professor
 
 # Organizations/Affiliations
 organizations:
-- name: School of Management & School of Data Science, Fudan University
+- name: School of Data Science & 
   url: ""
+- name: School of Management, Fudan U
+  url: "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=164011"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -45,7 +47,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'hong_liu@fudan.edu.cn'
+  link: 'mailto:hong_liu@fudan.edu.cn'
 - icon: researchgate
   icon_pack: ai
   link: https://www.researchgate.net/profile/L-Hong-6
