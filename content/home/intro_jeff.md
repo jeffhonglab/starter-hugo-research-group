@@ -1,6 +1,6 @@
 ---
 widget: about
-widget_id: intro_jeff
+widget_id: admin
 headless: true
 weight: 0
 title: Jeff Hong
