@@ -5,7 +5,7 @@
 
 title: Jeff Hong's Research Group # Website name
 baseurl: 'https://jeffhonglab.github.io/' # Website URL
-copyright: '© {2021} L. Jeff Hong' # Footer text, e.g. '© {year} Me'
+copyright: '© L. Jeff Hong' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
