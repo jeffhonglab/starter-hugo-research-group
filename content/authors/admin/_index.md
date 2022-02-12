@@ -10,7 +10,7 @@ role: Fudan Distinguished Professor & Hongyi Chair Professor
 
 # Organizations/Affiliations
 organizations:
-- name: School of Data Science & 
+- name: School of Data Science &
   url: ""
 - name: School of Management, Fudan U
   url: "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=164011"
