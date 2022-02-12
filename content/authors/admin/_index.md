@@ -19,10 +19,15 @@ organizations:
 bio:
 
 interests:
-- Stochastic simulation and stochastic optimization
-- Data analytics, machine learning and business applications
-- Financial analytics and financial risk management
-- Large-scale supply chain modeling and optimization
+# - Stochastic simulation and stochastic optimization
+# - Data analytics, machine learning and business applications
+# - Financial analytics and financial risk management
+# - Large-scale supply chain modeling and optimization
+- Simulation optimization
+- Monte Carlo methods in financial engineering
+- Monte Carlo methods in stochastic programming
+- Emerging areas in stochastic simulation
+- Operations analytics
 
 education:
   courses:
