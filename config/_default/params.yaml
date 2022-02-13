@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: true
-font: native
+font: modern
 font_size: L
 
 # SEO
@@ -46,7 +46,7 @@ contact_links:
 
 main_menu:
   enable: true
-  align: r
+  align: c
   show_logo: true
   show_language: true
   show_day_night: true
@@ -62,7 +62,7 @@ address_format: en-us
 # Site features
 
 highlight: false
-math: false
+math: true
 diagram: false
 privacy_pack: false
 show_related:
