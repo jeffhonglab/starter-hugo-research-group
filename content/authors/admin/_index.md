@@ -6,14 +6,16 @@ title: L. Jeff Hong
 superuser: true
 
 # Role/position
-role: Fudan Distinguished Professor & Hongyi Chair Professor
+role: "Fudan Distinguished Professor, Hongyi Chair Professor"  #Distinguished Professor & Hongyi Chair Professor
 
 # Organizations/Affiliations
 organizations:
-- name: School of Data Science &
+- name: School of Management
+  url: "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012113"
+- name: School of Data Science
+  url: "" # https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=164011"
+- name: Fudan University
   url: ""
-- name: School of Management, Fudan U
-  url: "https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=164011"
 
 # Short bio (displayed in user profile at end of posts)
 bio:
@@ -78,4 +80,5 @@ user_groups:
 - Researchers
 ---
 
-洪流（L. Jeff Hong），复旦大学特聘教授、大数据学院和管理学院双聘教授，管理学院弘毅讲席教授，博士生导师，复旦大学大数据学院副院长、管理学院管理科学系系主任，曾任香港科技大学工业工程及物流管理系教授，香港城市大学商学院讲席教授（Chair Professor）。目前任运筹学领域顶尖期刊《Operations Research》的领域主编和管理科学领域顶尖期刊《Management Science》的副主编，Journal of Operations Research Society of China 副总编辑（Associate Editor-in-Chief），INFORMS  Simulation Society主席。曾获得中国运筹学会运筹研究奖、美国运筹学与管理科学学会（INFORMS）青年论文奖、INFORMS仿真分会最佳出版物奖、美国工业工程师学会（IIE）运营类最佳论文奖等。
+<!-- 洪流（L. Jeff Hong），复旦大学特聘教授、大数据学院和管理学院双聘教授，管理学院弘毅讲席教授，博士生导师，复旦大学大数据学院副院长、管理学院管理科学系系主任，曾任香港科技大学工业工程及物流管理系教授，香港城市大学商学院讲席教授（Chair Professor）。目前任运筹学领域顶尖期刊《Operations Research》的领域主编和管理科学领域顶尖期刊《Management Science》的副主编，Journal of Operations Research Society of China 副总编辑（Associate Editor-in-Chief），INFORMS  Simulation Society主席。曾获得中国运筹学会运筹研究奖、美国运筹学与管理科学学会（INFORMS）青年论文奖、INFORMS仿真分会最佳出版物奖、美国工业工程师学会（IIE）运营类最佳论文奖等。 -->
+Prof. Jeff Hong is currently the Deputy Dean of School of Data Science and Head of Management Science Department at Fudan  University. His research focuses on the areas of operations research, data science, and financial engineering and risk management. He is currently an Area Editor of Operations Research, the Associate Editor-in-Chief of Journal of Operations Research Society of China, an Associate Editor of Management Science and ACM Transactions on Modeling and Computer Simulation, and the President of INFORMS Simulation Society. He has published over 80 papers on leading academic journals and conference proceedings, including more than 20 papers on the UTD journals. He has won numerous awards, including Outstanding Research Award from Operations Research Society of China, Outstanding Simulation Publication Award from INFORMS Simulation Society, Operations Best Paper Award from Institute of Industrial Engineers, etc.
