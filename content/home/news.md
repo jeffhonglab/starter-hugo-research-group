@@ -7,12 +7,14 @@ weight: 40
 title: Latest News
 subtitle:
 
+
+
 content:
   count: 5
   filters:
     author: ""
     category: ""
-    exclude_featured: false
+    exclude_featured: true
     publication_type: ""
     tag: ""
   offset: 0

@@ -1,9 +1,8 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize asddsasd
-date: 2020-12-01
+title: Simulation Optimization
+date: 2015
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
 
 <!--more-->
 
