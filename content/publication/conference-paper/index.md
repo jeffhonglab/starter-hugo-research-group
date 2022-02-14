@@ -3,8 +3,23 @@ title: "An example conference paper"
 authors:
 - admin
 - Robert Ford
+- Li Zaile
 date: "2013-07-01T00:00:00Z"
 doi: ""
+
+location: Wowchemy HQ
+address:
+  street: 450 Serra Mall
+  city: Stanford
+  region: CA
+  postcode: '94305'
+  country: United States
+
+# Talk start and end times.
+#   End time can optionally be hidden by prefixing the line with `#`.
+date: "2022-01-21"
+date_end: "2022-01-23"
+all_day: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -26,6 +41,8 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
+- Financial Engineering
+
 featured: true
 
 links:
@@ -33,12 +50,12 @@ links:
   url: http://example.org
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -53,7 +70,8 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+- Simulation Optimization
+- Monte Carlo methods in financial engineering
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

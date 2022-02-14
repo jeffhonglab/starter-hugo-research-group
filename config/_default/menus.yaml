@@ -5,27 +5,24 @@
 
 main:
 
-  - name: Collaborations
-    url: project
-    weight: 20
   - name: News
     url: post
     weight: 20
-  - name: Topics
-    url: topics
-    weight: 20
-  - name: People
-    url: people
-    weight: 30
   - name: Events
     url: event
-    weight: 40
-  - name: Group Events
-    url: event
-    weight: 42
+    weight: 30
   - name: Publications
     url: publication
+    weight: 40
+  - name: People
+    url: people
     weight: 50
+  - name: Group Activities
+    url: "landing/"
+    weight: 60
   - name: Contact
     url: contact
-    weight: 60
+    weight: 70
+#  - name: test single paper
+#    url: "example/"
+#    weight: 60

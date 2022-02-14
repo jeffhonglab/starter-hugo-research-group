@@ -3,7 +3,7 @@ title:
 subtitle:
 widget: blank
 headless: true
-weight: 50
+weight: 500
 design:
   columns: '1'
   align: center

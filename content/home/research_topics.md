@@ -9,12 +9,12 @@ title: Research Topics
 
 content:
   # Page type to display. E.g. project.
-  page_type: topics
+  page_type: project
 
 # Uncomment to only show content with specific tags
-#  filters:
-#    tags:
-#      - featured project
+  filters:
+    tags:
+     - research topics
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below)
   filter_default: 0
@@ -36,7 +36,7 @@ design:
   #   5 = Showcase
   view: 3
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---
 
 <DIV align="justify">
