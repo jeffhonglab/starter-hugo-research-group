@@ -60,7 +60,7 @@ social:
   link: https://www.researchgate.net/profile/L-Hong-6
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com.sg/citations?user=stZYMd8AAAAJ&hl=en
+  link: https://scholar.google.com/citations?hl=zh-CN&user=stZYMd8AAAAJ
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7011-4001

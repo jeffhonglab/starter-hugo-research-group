@@ -81,7 +81,6 @@ design:
 * LU Hongchi, M.Phil., HKUST, August 2014.
 * YANG Huanhuan, M.Phil., HKUST, August 2015.
 * YU Le, M.Phil., HKUST, August 2015.
-* CUI Yongjian, M.Sc., School of Data Science, FDU, June 2021.
 
 <!-- {{% callout note %}}
 This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).

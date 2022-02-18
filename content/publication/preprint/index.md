@@ -1,9 +1,9 @@
 ---
-title: "An example preprint / working paper"
+title: "Large-Scale Ranking and Selection in Parallel Computing Environments"
 authors:
-- Li Zaile
 - admin
-- Wang Tan
+- Jiang Giangxin
+- Zhong Ying
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
@@ -26,7 +26,9 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Monte Carlo methods in financial engineering
+- Emerging areas in stochastic simulation
+
 featured: true
 
 links:
@@ -39,7 +41,7 @@ url_poster: '#'
 url_project: ''
 url_slides: ''
 url_source: '#'
-url_video: '#'
+url_video: 'https://www.youtube.com/watch?v=pO6cRFOdmSA'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

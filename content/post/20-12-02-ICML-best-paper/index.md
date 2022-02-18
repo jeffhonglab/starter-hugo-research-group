@@ -1,14 +1,13 @@
 ---
-title: "example: XXX Win the Best Paper Award at INFORMS WSC"
-date: 2020-12-02
+title: TBD
+date: 2022-02-18
 authors:
- - 
+ -
 
 ---
-This is an example of posting news or articles
+TBD
 
 <!DIV align="justify">
 
-example
 
 </DIV>

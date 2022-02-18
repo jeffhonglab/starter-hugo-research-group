@@ -4,7 +4,9 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-
+  - name: Research
+    url: "landing_topics/"
+    weight: 10
   - name: News
     url: post
     weight: 20
@@ -18,7 +20,7 @@ main:
     url: people
     weight: 50
   - name: Group Activities
-    url: "landing/"
+    url: "group/"
     weight: 60
   - name: Contact
     url: contact
