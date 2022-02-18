@@ -30,8 +30,8 @@ publishDate: "2005-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the 2005 Winter Simulation Conference, pp. 803-810
-publication_short: Proceedings of the 2005 Winter Simulation Conference, pp. 803-810
+publication: Proceedings of the 2005 Winter Simulation Conference, pp.803-810
+publication_short: Proceedings of the 2005 Winter Simulation Conference, pp.803-810
 
 abstract:
 

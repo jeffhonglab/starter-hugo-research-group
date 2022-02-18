@@ -30,8 +30,8 @@ publishDate: "2007-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the 2007 Winter Simulation Conference, pp. 919-931. (invited advanced tutorial talk)
-publication_short: Proceedings of the 2007 Winter Simulation Conference, pp. 919-931. (invited advanced tutorial talk)
+publication: Proceedings of the 2007 Winter Simulation Conference, pp.919-931 (invited advanced tutorial talk)
+publication_short: Proceedings of the 2007 Winter Simulation Conference, pp.919-931 (invited advanced tutorial talk)
 
 abstract:
 

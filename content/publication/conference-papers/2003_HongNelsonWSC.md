@@ -31,8 +31,8 @@ publishDate: "2003-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Proceedings of the 2003 Winter Simulation Conference, pp. 474-480
-publication_short: Proceedings of the 2003 Winter Simulation Conference, pp. 474-480
+publication: Proceedings of the 2003 Winter Simulation Conference, pp.474-480
+publication_short: Proceedings of the 2003 Winter Simulation Conference, pp.474-480
 
 abstract:
 
