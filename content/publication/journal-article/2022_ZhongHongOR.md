@@ -34,13 +34,13 @@ publication_types: ["2"]
 publication: "Operations Research, 70:432-453"
 publication_short: "Operations Research, 70:432-453"
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
 
 
-featured: false
+featured: true
 
 links:
 # - name: Preprint
@@ -68,9 +68,9 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+-
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

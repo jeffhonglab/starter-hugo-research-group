@@ -27,8 +27,8 @@ featured: false
 
 links:
 - name: Preprint
-  url: http://example.org
-url_pdf: "/uploads/papers/preprints/GPSC.pdf"
+  url: https://www.researchgate.net/publication/351599952_Gaussian_Process_Based_Search_for_Continuous_Optimization_via_Simulation
+# url_pdf: "/uploads/papers/preprints/GPSC.pdf"
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

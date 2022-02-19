@@ -27,8 +27,8 @@ featured: false
 
 links:
 - name: Preprint
-  url: http://example.org
-url_pdf: "/uploads/papers/preprints/FBKT.pdf"
+  url: https://www.researchgate.net/publication/354858042_Solving_Large-Scale_Fixed-Budget_Ranking_and_Selection_Problems
+# url_pdf: "/uploads/papers/preprints/FBKT.pdf"
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

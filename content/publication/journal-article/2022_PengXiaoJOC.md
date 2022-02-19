@@ -1,8 +1,8 @@
 
 ---
-title: "Integrating Algorithmic Sampling-Based Motion Planning with Learning in Autonomous Driving"
+title: "A new likelihood ratio method for training artificial neural networks"
 authors:
-- Zhang, Y., J. Zhang, J. Zhang, J. Wang, K. Lu and L. J. Hong
+- Peng, Y., L. Xiao, B. Heidergott, L. J. Hong, and H. Lam
 # authors_notes: Equal Contributions
 date:
 doi: ""
@@ -22,7 +22,7 @@ date_end: "#"
 all_day: true
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2022-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,8 +31,8 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM Transactions on Intelligent Systems and Technology, 13(3):1-27"
-publication_short: "ACM Transactions on Intelligent Systems and Technology, 13(3):1-27"
+publication: INFORMS Journal on Computing, forthcoming
+publication_short: INFORMS Journal on Computing, forthcoming
 
 abstract:
 
@@ -43,9 +43,9 @@ summary:
 featured: true
 
 links:
-# - name: Preprint
-#   url: https://www.researchgate.net/publication/351599800_Option_pricing_by_stochastic_differential_equations_A_simulation_optimization_approach
-url_pdf: "/uploads/papers/journals/2022_ZhangZhangZhangWangLuHongTIST.pdf"
+ - name: Preprint
+   url: https://www.researchgate.net/publication/354669849_A_New_Likelihood_Ratio_Method_for_Training_Artificial_Neural_Networks
+# url_pdf: "/uploads/papers/journals/2022_ZhongHongOR.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

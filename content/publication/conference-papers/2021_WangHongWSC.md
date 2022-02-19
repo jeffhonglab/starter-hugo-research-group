@@ -41,8 +41,8 @@ summary:
 featured: true
 
 links:
-# - name: Preprint
-#   url: https://www.researchgate.net/publication/351599800_Option_pricing_by_stochastic_differential_equations_A_simulation_optimization_approach
+ - name: Preprint
+   url: https://www.researchgate.net/publication/351599800_Option_pricing_by_stochastic_differential_equations_A_simulation_optimization_approach
 url_pdf: "/uploads/papers/conferences/WangHongWSC2021.pdf"
 url_code: ''
 url_dataset: ''

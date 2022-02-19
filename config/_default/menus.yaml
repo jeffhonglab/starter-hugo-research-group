@@ -5,7 +5,7 @@
 
 main:
   - name: Research
-    url: "landing_topics/"
+    url: "research_topics/"
     weight: 10
   - name: News
     url: post

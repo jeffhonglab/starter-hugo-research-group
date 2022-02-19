@@ -1,8 +1,8 @@
 
 ---
-title: "Integrating Algorithmic Sampling-Based Motion Planning with Learning in Autonomous Driving"
+title: "Technical Note: Knowledge gradient for selection with covariates: consistency and computation"
 authors:
-- Zhang, Y., J. Zhang, J. Zhang, J. Wang, K. Lu and L. J. Hong
+- Zhang, X., H. Shen, L. J. Hong, and L. Ding
 # authors_notes: Equal Contributions
 date:
 doi: ""
@@ -22,7 +22,7 @@ date_end: "#"
 all_day: true
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-01-01T00:00:00Z"
+publishDate: "2022-02-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,8 +31,8 @@ publishDate: "2022-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM Transactions on Intelligent Systems and Technology, 13(3):1-27"
-publication_short: "ACM Transactions on Intelligent Systems and Technology, 13(3):1-27"
+publication: Naval Research Logistics, forthcoming
+publication_short: Naval Research Logistics, forthcoming
 
 abstract:
 
@@ -40,12 +40,12 @@ abstract:
 summary:
 
 
-featured: true
+featured: false
 
 links:
-# - name: Preprint
-#   url: https://www.researchgate.net/publication/351599800_Option_pricing_by_stochastic_differential_equations_A_simulation_optimization_approach
-url_pdf: "/uploads/papers/journals/2022_ZhangZhangZhangWangLuHongTIST.pdf"
+ - name: Preprint
+   url: https://www.researchgate.net/publication/333745783_Technical_Note-Knowledge_Gradient_for_Selection_with_Covariates_Consistency_and_Computation
+# url_pdf: "/uploads/papers/journals/2022_ZhongHongOR.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -27,8 +27,8 @@ featured: false
 
 links:
 - name: Preprint
-  url: http://example.org
-url_pdf: "/uploads/papers/preprints/RNN.pdf"
+  url: https://www.researchgate.net/publication/357927445_Large-Scale_Inventory_Optimization_A_Recurrent-Neural-Networks-Inspired_Simulation_Approach
+# url_pdf: "/uploads/papers/preprints/RNN.pdf"
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

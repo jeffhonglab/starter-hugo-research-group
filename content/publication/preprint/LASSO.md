@@ -27,8 +27,8 @@ featured: false
 
 links:
 - name: Preprint
-  url: http://example.org
-url_pdf: "/uploads/papers/preprints/LASSO.pdf"
+  url: https://arxiv.org/abs/2009.08265
+# url_pdf: "/uploads/papers/preprints/LASSO.pdf"
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
