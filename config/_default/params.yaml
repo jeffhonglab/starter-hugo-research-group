@@ -67,7 +67,7 @@ diagram: false
 privacy_pack: false
 show_related:
   post: true
-  project: false
+  project: true
   publication: true
   talk: true
   event: true

@@ -29,8 +29,8 @@ authors: [admin, Shoudao Wang, Nifei Lin]
 tags:
  - Pricing
  - Neural Network
- - Monte Carlo methods in financial engineering
- - Emerging areas in stochastic simulation
+ - Monte Carlo methods in Financial Engineering
+ - Emerging areas in Stochastic Simulation
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -57,8 +57,9 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
- - Monte Carlo methods in financial engineering
- - Emerging areas in stochastic simulation
+ - Monte Carlo methods in Financial Engineering
+ - Emerging areas in Stochastic Simulation
+
 ---
 
 <DIV align="justify">
