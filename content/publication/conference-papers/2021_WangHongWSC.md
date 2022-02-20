@@ -66,12 +66,11 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Simulation Optimization
-- Monte Carlo methods in financial engineering
+ - Simulation Optimization
+ - Emerging Areas in Stochastic Simulation
+ - Monte Carlo Methods in Financial Engineering
 
 tags:
-- Monte Carlo methods in financial engineering
-- Emerging areas in stochastic simulation
 
 
 # Slides (optional).

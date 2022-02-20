@@ -34,7 +34,7 @@ publication_types: ["2"]
 publication: "IIE Transactions, 39:723-734"
 publication_short: "IIE Transactions, 39:723-734"
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -68,9 +68,9 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Ranking and Selection
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

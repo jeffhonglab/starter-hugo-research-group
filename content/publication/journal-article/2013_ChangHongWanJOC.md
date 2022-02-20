@@ -34,7 +34,7 @@ publication_types: ["2"]
 publication: "INFORMS Journal on Computing, 25:230-243"
 publication_short: "INFORMS Journal on Computing, 25:230-243"
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -68,9 +68,9 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Simulation Optimization
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

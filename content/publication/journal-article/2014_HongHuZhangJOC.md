@@ -34,7 +34,7 @@ publication_types: ["2"]
 publication: "INFORMS Journal on Computing, 26:385-400"
 publication_short: "INFORMS Journal on Computing, 26:385-400"
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -68,9 +68,10 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Monte Carlo Methods in Stochastic Programming
+ - Monte Carlo Methods in Financial Engineering
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

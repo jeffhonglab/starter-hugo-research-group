@@ -33,7 +33,7 @@ publication_types: ["1"]
 publication: Proceedings of the 2017 Winter Simulation Conference, pp.2137-2148
 publication_short: Proceedings of the 2017 Winter Simulation Conference, pp.2137-2148
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -67,9 +67,10 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Emerging Areas in Stochastic Simulation
+ - Ranking and Selection
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

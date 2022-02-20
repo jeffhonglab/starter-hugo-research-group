@@ -33,7 +33,7 @@ publication_types: ["1"]
 publication: Proceedings of the 2014 Winter Simulation Conference, pp.476-485
 publication_short: Proceedings of the 2014 Winter Simulation Conference, pp.476-485
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -67,9 +67,9 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Operations Analytics
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

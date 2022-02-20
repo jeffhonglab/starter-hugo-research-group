@@ -6,7 +6,7 @@ authors:
  -
 
 image:
- caption: 'Image credit: [**Operations Research, 62:1416-1438**](http://localhost:1313/publication/journal-article/2014_sunhonghuor/)'
+ caption: 'Image credit: [**Operations Research, 62:1416-1438**](https://jeffhonglab.github.io/publication/journal-article/2014_sunhonghuor/)'
  focal_point: ""
  preview_only: false
 
@@ -29,6 +29,7 @@ Slides:
   * {{% staticref "uploads/reading_SO/1025MirrorDescent.pdf" %}}1025MirrorDescent{{% /staticref %}}
   * {{% staticref "uploads/reading_SO/1025Technical note.pdf" %}}1025Technical note{{% /staticref %}}
   * {{% staticref "uploads/reading_SO/1108SDO.pdf" %}}1108SDO{{% /staticref %}}
+  * {{% staticref "uploads/reading_SO/1101Adam.pdf" %}}1101Adam{{% /staticref %}}
   * {{% staticref "uploads/reading_SO/1108Nelder-Mead.pdf" %}}1108Nelder-Mead{{% /staticref %}}
   * {{% staticref "uploads/reading_SO/1115SCA.pdf" %}}1115SCA{{% /staticref %}}
   * {{% staticref "uploads/reading_SO/1115SimulatedAnnealing.pdf" %}}1115SimulatedAnnealing{{% /staticref %}}

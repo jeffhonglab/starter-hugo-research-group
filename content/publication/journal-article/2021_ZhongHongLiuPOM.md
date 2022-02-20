@@ -34,7 +34,7 @@ publication_types: ["2"]
 publication: "Production and Operations Management, 30:2379-2394"
 publication_short: "Production and Operations Management, 30:2379-2394"
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -68,9 +68,9 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Operations Analytics
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

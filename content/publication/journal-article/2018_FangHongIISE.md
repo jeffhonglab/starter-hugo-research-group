@@ -34,7 +34,7 @@ publication_types: ["2"]
 publication: "IISE Transactions, 50:14-26"
 publication_short: "IISE Transactions, 50:14-26"
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -68,9 +68,9 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Emerging Areas in Stochastic Simulation
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

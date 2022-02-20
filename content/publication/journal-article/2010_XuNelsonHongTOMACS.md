@@ -34,7 +34,7 @@ publication_types: ["2"]
 publication: "ACM Transactions on Modeling and Computer Simulation, 20: 3/1-3/29"
 publication_short: "ACM Transactions on Modeling and Computer Simulation, 20: 3/1-3/29"
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -68,9 +68,9 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Simulation Optimization
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

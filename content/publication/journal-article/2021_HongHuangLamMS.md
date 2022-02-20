@@ -34,7 +34,7 @@ publication_types: ["2"]
 publication: "Management Science, 67:3321-3984"
 publication_short: "Management Science, 67:3321-3984"
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -68,9 +68,10 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Monte Carlo Methods in Stochastic Programming
+ - Emerging Areas in Stochastic Simulation
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

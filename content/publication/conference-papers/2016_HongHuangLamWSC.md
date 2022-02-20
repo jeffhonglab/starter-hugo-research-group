@@ -33,7 +33,7 @@ publication_types: ["1"]
 publication: Proceedings of the 2016 Winter Simulation Conference, pp.389-400
 publication_short: Proceedings of the 2016 Winter Simulation Conference, pp.389-400
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -67,9 +67,9 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Monte Carlo Methods in Stochastic Programming
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

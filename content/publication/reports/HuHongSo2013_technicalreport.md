@@ -50,7 +50,7 @@ url_pdf: "/uploads/papers/preprints/report/HuHongSo2013_technicalreport.pdf"
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
--
+ - Monte Carlo Methods in Stochastic Programming
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

@@ -34,7 +34,7 @@ publication_types: ["2"]
 publication: "ACM Transactions on Modeling and Computer Simulation, 24:22/1-22/37"
 publication_short: "ACM Transactions on Modeling and Computer Simulation, 24:22/1-22/37"
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -68,9 +68,10 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Monte Carlo Methods in Stochastic Programming
+ - Monte Carlo Methods in Financial Engineering
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

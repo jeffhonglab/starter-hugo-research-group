@@ -34,7 +34,7 @@ publication_types: ["2"]
 publication: "European Journal of Operational Research, 245:470-479"
 publication_short: "European Journal of Operational Research, 245:470-479"
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -68,9 +68,9 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Operations Analytics
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -50,7 +50,9 @@ links:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
--
+ - Simulation Optimization
+ - Operations Analytics
+ - Emerging Areas in Stochastic Simulation
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

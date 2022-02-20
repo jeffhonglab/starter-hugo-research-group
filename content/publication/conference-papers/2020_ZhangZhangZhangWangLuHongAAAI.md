@@ -33,7 +33,7 @@ publication_types: ["1"]
 publication: Proceedings of the AAAI Conference on Artificial Intelligence, pp.1202-1209
 publication_short: Proceedings of the AAAI Conference on Artificial Intelligence, pp.1202-1209
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -67,9 +67,9 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Emerging Areas in Stochastic Simulation
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -34,7 +34,7 @@ publication_types: ["2"]
 publication: "Asia-Pacific Journal of Operational Research, 36:1940015"
 publication_short: "Asia-Pacific Journal of Operational Research, 36:1940015"
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -68,9 +68,9 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Emerging Areas in Stochastic Simulation
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

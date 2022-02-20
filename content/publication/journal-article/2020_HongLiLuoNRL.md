@@ -34,7 +34,7 @@ publication_types: ["2"]
 publication: "Naval Research Logistics, 67:368-379"
 publication_short: "Naval Research Logistics, 67:368-379"
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -68,9 +68,9 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Operations Analytics
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

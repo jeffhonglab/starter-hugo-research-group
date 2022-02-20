@@ -34,7 +34,7 @@ publication_types: ["2"]
 publication: "Operations Research, 59:96-108"
 publication_short: "Operations Research, 59:96-108"
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -68,9 +68,9 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Monte Carlo Methods in Financial Engineering
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

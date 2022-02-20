@@ -34,7 +34,7 @@ publication_types: ["2"]
 publication: "Journal of Operations Research Society of China, 5:431-455"
 publication_short: "Journal of Operations Research Society of China, 5:431-455"
 
-abstract: 
+abstract:
 
 # Summary. An optional shortened abstract.
 summary:
@@ -68,9 +68,9 @@ url_video: ""
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- 
+ - Monte Carlo Methods in Stochastic Programming
 tags:
-- 
+-
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
