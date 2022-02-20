@@ -70,7 +70,7 @@ url_video: ""
 projects:
  - Monte Carlo Methods in Financial Engineering
 tags:
--
+ - Monte Carlo Methods in Financial Engineering
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

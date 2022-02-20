@@ -22,7 +22,9 @@ abstract:
 # Summary. An optional shortened abstract.
 summary:
 tags:
--
+- Simulation Optimization
+- Operations Analytics
+- Emerging Areas in Stochastic Simulation
 featured: false
 
 links:

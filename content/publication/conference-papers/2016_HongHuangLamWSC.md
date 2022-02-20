@@ -68,9 +68,11 @@ url_video: ""
 #   Otherwise, set `projects: []`.
 projects:
  - Monte Carlo Methods in Stochastic Programming
+ - Emerging Areas in Stochastic Simulation
 tags:
--
-
+ - Monte Carlo Methods in Stochastic Programming
+ - Emerging Areas in Stochastic Simulation
+ 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

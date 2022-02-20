@@ -52,8 +52,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ""
-
+url_video: "https://www.youtube.com/watch?v=pO6cRFOdmSA"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -70,7 +69,7 @@ url_video: ""
 projects:
  - Ranking and Selection
 tags:
--
+ - Ranking and Selection
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -79,3 +78,4 @@ tags:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
+[Chinese Talk on Bilibili](https://www.bilibili.com/video/BV1k54y1q7S9?from=search&seid=17841236032621501600&spm_id_from=333.337.0.0)

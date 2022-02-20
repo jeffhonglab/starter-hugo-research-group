@@ -70,7 +70,7 @@ links:
 projects:
  - Operations Analytics
 tags:
--
+ - Operations Analytics
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

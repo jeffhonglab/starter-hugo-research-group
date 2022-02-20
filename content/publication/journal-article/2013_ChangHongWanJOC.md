@@ -70,7 +70,7 @@ url_video: ""
 projects:
  - Simulation Optimization
 tags:
--
+ - Simulation Optimization
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

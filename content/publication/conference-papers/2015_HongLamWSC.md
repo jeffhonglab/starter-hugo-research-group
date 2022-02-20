@@ -69,7 +69,7 @@ url_video: ""
 projects:
  - Monte Carlo Methods in Stochastic Programming
 tags:
--
+ - Monte Carlo Methods in Stochastic Programming
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -71,7 +71,8 @@ projects:
  - Emerging Areas in Stochastic Simulation
  - Monte Carlo Methods in Financial Engineering
 tags:
--
+- Emerging Areas in Stochastic Simulation
+- Monte Carlo Methods in Financial Engineering
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

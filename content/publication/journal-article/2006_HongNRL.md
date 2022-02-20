@@ -70,7 +70,7 @@ url_video: ""
 projects:
  - Ranking and Selection
 tags:
--
+ - Ranking and Selection
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

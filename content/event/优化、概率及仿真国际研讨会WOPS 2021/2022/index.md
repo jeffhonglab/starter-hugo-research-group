@@ -41,7 +41,7 @@ featured: false
 
 url_code: ""
 url_pdf: ""
-url_slides: "uploads/reading_network_science/chap2.pdf"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).

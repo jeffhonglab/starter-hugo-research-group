@@ -71,7 +71,8 @@ projects:
  - Monte Carlo Methods in Stochastic Programming
  - Operations Analytics
 tags:
--
+- Monte Carlo Methods in Stochastic Programming
+- Operations Analytics
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

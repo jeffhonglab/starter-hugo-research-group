@@ -70,7 +70,7 @@ url_video: ""
 projects:
  - Emerging Areas in Stochastic Simulation
 tags:
--
+ - Emerging Areas in Stochastic Simulation
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -71,7 +71,8 @@ projects:
  - Monte Carlo Methods in Stochastic Programming
  - Monte Carlo Methods in Financial Engineering
 tags:
--
+- Monte Carlo Methods in Stochastic Programming
+- Monte Carlo Methods in Financial Engineering
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

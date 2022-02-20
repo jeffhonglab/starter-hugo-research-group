@@ -70,7 +70,8 @@ projects:
  - Emerging Areas in Stochastic Simulation
  - Ranking and Selection
 tags:
--
+- Emerging Areas in Stochastic Simulation
+- Ranking and Selection
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

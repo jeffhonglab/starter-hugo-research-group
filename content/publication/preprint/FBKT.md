@@ -22,7 +22,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary:
 tags:
--
+ - Ranking and Selection
 featured: false
 
 links:

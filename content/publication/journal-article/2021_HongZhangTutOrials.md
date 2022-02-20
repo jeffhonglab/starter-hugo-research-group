@@ -71,7 +71,8 @@ projects:
  - Simulation Optimization
  - Emerging Areas in Stochastic Simulation
 tags:
--
+- Simulation Optimization
+- Emerging Areas in Stochastic Simulation
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

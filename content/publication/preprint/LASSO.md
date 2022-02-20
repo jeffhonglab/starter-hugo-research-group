@@ -22,7 +22,7 @@ abstract:
 # Summary. An optional shortened abstract.
 summary:
 tags:
--
+ - Operations Analytics
 featured: false
 
 links:

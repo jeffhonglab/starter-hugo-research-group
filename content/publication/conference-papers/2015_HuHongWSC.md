@@ -70,7 +70,8 @@ projects:
  - Monte Carlo Methods in Stochastic Programming
  - Emerging Areas in Stochastic Simulation
 tags:
--
+- Monte Carlo Methods in Stochastic Programming
+- Emerging Areas in Stochastic Simulation
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

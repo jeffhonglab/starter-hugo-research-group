@@ -71,7 +71,8 @@ projects:
  - Simulation Optimization
  - Ranking and Selection
 tags:
--
+- Simulation Optimization
+- Ranking and Selection
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
