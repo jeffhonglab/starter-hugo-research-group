@@ -55,4 +55,5 @@ user_groups:
 - Ph.D. Student
 ---
 
-I am now a first year Ph.D. Student in Management Science at School of Management, Fudan University. 
+I am now a third year Ph.D. Student in Management Science at School of Management, Fudan University. Here is my 
+[personal website](https://sites.google.com/view/zaileli/). 

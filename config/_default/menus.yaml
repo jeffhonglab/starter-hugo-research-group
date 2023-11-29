@@ -7,12 +7,6 @@ main:
   - name: Research
     url: "research_topics/"
     weight: 10
-  - name: News
-    url: post
-    weight: 20
-  - name: Events
-    url: event
-    weight: 30
   - name: Publications
     url: publication
     weight: 40
@@ -28,3 +22,9 @@ main:
 #  - name: test single paper
 #    url: "example/"
 #    weight: 60
+  # - name: News
+  #   url: post
+  #   weight: 20
+  # - name: Events
+  #   url: event
+  #   weight: 30

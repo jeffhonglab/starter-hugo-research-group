@@ -5,7 +5,7 @@ widget: blank
 headless: true
 weight: 500
 design:
-  columns: '1'
+  columns: '2'
   align: center
 ---
 

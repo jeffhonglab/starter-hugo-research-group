@@ -55,8 +55,8 @@ design:
 <br/>Placement after graduation: Assistant Professor, School of Management, Shanghai University
 <!-- <br/>Currently Professor in School of Management at Harbin Institute of Technology. -->
 * YUN Xin, joint Ph.D. with University of Chinese Academy of Science, City University of Hong Kong, June 2018
-<br/>Placement after graduation: Postdoc fellow in Fudan-Princeton Postdoc Program
-* [YUN Xin](https://silc.shu.edu.cn/info/1151/17760.htm), Postdoc Fellow, Fudan-Princeton Postdoc Program, September 2020
+<br/>Placement after graduation: Postdoc fellow, Fudan-Princeton Postdoc Program
+* [YUN Xin](https://silc.shu.edu.cn/info/1320/18499.htm), Postdoc Fellow, Fudan-Princeton Postdoc Program, September 2020
 <br/>Placement after graduation: Assistant Professor, SILC Business School, Shanghai University
 <!-- <br/>Currently Assistant Professor in SILC Business School at Shanghai University. -->
 * [SHEN Haihui](https://shenhaihui.github.io), Ph.D., City University of Hong Kong, August 2018.
@@ -68,9 +68,17 @@ design:
 * [WANG Xiuxian](http://www.sugli.sjtu.edu.cn/teacher2/2509.html), joint Ph.D. with Shanghai Jiaotong University, City University of Hong Kong, August 2019.
 <br/>Placement after graduation: Postdoc fellow, Sino-China Logistics Institute, Shanghai Jiaotong University
 <!-- <br/>Currently -->
-
-* Li Wenhao, Ph.D., City University of Hong Kong, August 2021 (co-supervised by Zhankun Sun).
+* [LI Wenhao](https://wenhaoli666.github.io/), Ph.D., City University of Hong Kong, August 2021 (co-supervised by Zhankun Sun).
 <br/>Placement after graduation: Postdoc fellow, Rotman School of Management, University of Toronto
+<!-- <br/>Currently -->
+* [HUANG Weihuan](https://sme.nju.edu.cn/hwh/list.htm), Postdoc Fellow, Fudan University, July 2022.
+<br/>Placement after graduation: School of Management and Engineering, Nanjing University
+<!-- <br/>Currently -->
+* [WANG Tan](https://bs.ustc.edu.cn/chinese/profile-2303.html), Ph.D., Fudan University, October 2023.
+<br/>Placement after graduation: Non-tenured Associate Professor, School of Management, University of Science and Technology of China
+<!-- <br/>Currently -->
+* [DU Jianzhong](https://jeffhonglab.github.io/people/), Postdoc Fellow, Fudan University, November 2023.
+<br/>Placement after graduation: Non-tenured Associate Professor, School of Management, University of Science and Technology of China
 <!-- <br/>Currently -->
 
 * [YANG Yi](https://yangyi02.github.io/), M.Phil., HKUST, August 2008.
@@ -80,7 +88,7 @@ design:
 * XING Jicheng, M.Phil., HKUST, August 2014.
 * LU Hongchi, M.Phil., HKUST, August 2014.
 * YANG Huanhuan, M.Phil., HKUST, August 2015.
-* YU Le, M.Phil., HKUST, August 2015. 11
+* YU Le, M.Phil., HKUST, August 2015.
 
 <!-- {{% callout note %}}
 This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).

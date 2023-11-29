@@ -8,8 +8,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 150
 
-title: Full List of Current Members
-subtitle:
+title: Current Members
+subtitle: PhD. Student & Postdoc Fellow
 
 design:
   columns: "1"
@@ -31,33 +31,28 @@ design:
 **Over 500,000 [Amazing Websites](https://wowchemy.com/) have Already Been Built with Wowchemy**
 
 **[Join](https://wowchemy.com/templates/) the Most Empowered Hugo Community** -->
-* Huang Zhiyuan
-* Xu Zhen
-
-* KUANG Xianyu, Ph.D. student at City University of Hong Kong, started 2017
-* WANG Tan, Ph.D. student in School of Data Science at Fudan University, started 2019
-* LI Zaile, M.Phil. - Ph.D. student in School of Management at Fudan University, started 2019
+<!-- * KUANG Xianyu, Ph.D. student at City University of Hong Kong, started 2017 -->
+<!-- * WANG Tan, Ph.D. student in School of Data Science at Fudan University, started 2019 -->
+* [LI Zaile](https://sites.google.com/view/zaileli/), M.Phil. - Ph.D. student in School of Management at Fudan University, started 2019
 * LIN Nifei, M.Phil. - Ph.D. student in School of Management at Fudan University, started 2019
-* HUANG Weihuan, Postdoc fellow at Fudan University, started 2020
-* LI Jinzhi, Ph.D. student in School of Data Science at Fudan University, started 2020
 * ZHANG Qingkai, M.Phil. -  Ph.D. student in School of Management at Fudan University, started 2020
-* Du Jianzhong
-* Zhang Dewei
-
-* WANG Shoudao, master's student in School of Data Science at Fudan University, started 2019
+* Li Xinyao, M.Phil. - Ph.D. student in School of Management at Fudan University, started 2022
+<!--  -->
+* LI Jinzhi, Ph.D. student in School of Data Science at Fudan University, started 2020
+* Luo Heng, Ph.D. student in School of Data Science at Fudan University, started
+* Wan Yuchen, Ph.D. student in School of Data Science at Fudan University, started
+* Liang Zhiyang, Ph.D. student in School of Data Science at Fudan University, started 2023
+<!-- * WANG Shoudao, master's student in School of Data Science at Fudan University, started 2019
 * ZHUANG Zi, master's student in School of Data Science at Fudan University, started 2019
-* Fu Han, master's student in School of Data Science at Fudan University, started 2020
-* Jia Haorui
-* Luo Heng
-* Li Xinyao
-* Lei Kepeng
+* Fu Han, master's student in School of Data Science at Fudan University, started 2020 -->
+<!-- * Lei Kepeng
 * Liu Zhujun
 * Wang Jingyi
 * Ying Wenhao
 * Ouyang Wanlu
 * Zhao Lei
-* Qin Kexin
-* Wan Yuchen
+* Qin Kexin -->
+
 <!-- {{% callout note %}}
 This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
 
