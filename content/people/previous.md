@@ -80,7 +80,7 @@ design:
 * XING Jicheng, M.Phil., HKUST, August 2014.
 * LU Hongchi, M.Phil., HKUST, August 2014.
 * YANG Huanhuan, M.Phil., HKUST, August 2015.
-* YU Le, M.Phil., HKUST, August 2015.
+* YU Le, M.Phil., HKUST, August 2015. 11
 
 <!-- {{% callout note %}}
 This homepage section is an example of adding [elements](https://wowchemy.com/docs/content/writing-markdown-latex/) to the [*Blank* widget](https://wowchemy.com/docs/getting-started/page-builder/).
