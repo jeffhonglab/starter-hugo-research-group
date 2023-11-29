@@ -20,16 +20,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include simulation optimization, decision under uncertainty and data analytics.
 
-interests:
-- Simulation Optimization
-- Decision under Uncertainty
-- Machine Learning and Data Analytics
+# interests:
+# - Simulation Optimization
+# - Decision under Uncertainty
+# - Machine Learning and Data Analytics
 
-education:
-  courses:
-  - course: BSc in Management
-    institution: Chongqing University
-    year: 2015
+# education:
+#   courses:
+#   - course: BSc in Management
+#     institution: Chongqing University
+#     year: 2015
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
