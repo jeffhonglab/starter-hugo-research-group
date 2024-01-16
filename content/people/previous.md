@@ -62,7 +62,7 @@ design:
 * [SHEN Haihui](https://shenhaihui.github.io), Ph.D., City University of Hong Kong, August 2018.
 <br/>Placement after graduation: Assistant Professor, Sino-China Logistics Institute, Shanghai Jiaotong University
 <!-- <br/>Currently Assistant Professor in Antai School of Economics and Management at Shanghai Jiaotong University. -->
-* [ZHONG Ying](https://www.mgmt.uestc.edu.cn/jsnry.jsp?urltype=news.NewsContentUrl&wbtreeid=1020&wbnewsid=29684), Ph.D., City University of Hong Kong, August 2019 (co-supervised by Guangwu Liu), with Hong Kong Ph.D. Fellowship.
+* [ZHONG Ying](https://www.mgmt.uestc.edu.cn/mgmt/jsnry.jsp?urltype=news.NewsContentUrl&wbtreeid=1020&wbnewsid=29684), Ph.D., City University of Hong Kong, August 2019 (co-supervised by Guangwu Liu), with Hong Kong Ph.D. Fellowship.
 <br/>Placement after graduation: Assistant Professor, School of Economics and Finance, University of Electronics Science and Technology of China
 <!-- <br/>Currently Associate Professor in School of Economics and Management at at University of Electronic Science and Technology of China. -->
 * [WANG Xiuxian](http://www.sugli.sjtu.edu.cn/teacher2/2509.html), joint Ph.D. with Shanghai Jiaotong University, City University of Hong Kong, August 2019.
@@ -77,7 +77,7 @@ design:
 * [WANG Tan](https://bs.ustc.edu.cn/chinese/profile-2303.html), Ph.D., Fudan University, October 2023.
 <br/>Placement after graduation: Non-tenured Associate Professor, School of Management, University of Science and Technology of China
 <!-- <br/>Currently -->
-* [DU Jianzhong](https://jeffhonglab.github.io/people/), Postdoc Fellow, Fudan University, November 2023.
+* [DU Jianzhong](https://bs.ustc.edu.cn/chinese/profile-2322.html), Postdoc Fellow, Fudan University, November 2023.
 <br/>Placement after graduation: Non-tenured Associate Professor, School of Management, University of Science and Technology of China
 <!-- <br/>Currently -->
 
